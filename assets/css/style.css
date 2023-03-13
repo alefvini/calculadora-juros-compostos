@@ -17,7 +17,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    background-image: url('/assets/img/fundo.jpg');
+    background-image: url("https://raw.githubusercontent.com/alefvini/calculadora-juros-compostos/master/assets/img/fundo.jpg");
     background-size: cover;
     color: #fff;
 }
