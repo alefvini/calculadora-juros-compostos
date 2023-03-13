@@ -11,13 +11,16 @@
     box-sizing: border-box;
 }
 
+body {
+    background-image: url('/assets/img/fundo.jpg');
+}
+
 #container {
     width: 100%;
     height: 100vh;
     display: flex;
     align-items: center;
     justify-content: center;
-    background-image: url('/assets/img/fundo.jpg');
     background-size: cover;
     color: #fff;
 }
