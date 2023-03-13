@@ -17,8 +17,8 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    background-size: cover;
     background-image: url('/assets/img/fundo.jpg');
+    background-size: cover;
     color: #fff;
 }
 
